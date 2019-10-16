@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection
+# Regression: Credit-Card-Fraud-Detection
 
 ## Goal:
 
